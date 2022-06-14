@@ -4,4 +4,4 @@ This is my first website that I made entirely. It's about one of my passion : sc
 
 Here is the link to see it !
 
-http://trottinette.alwaysdata.net
+http://trottinette.alwaysdata.net/latrottinette/
